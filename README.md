@@ -11,5 +11,4 @@ I'm a Software Engineer and technical writer. I'm passionate about sharing knowl
 - 💼 Job interests: Software Engineer, Front Engineer, or Technical writer.
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmydee&langs_count=8&layout=compact&hide_border=true" alt="Timmydee's GitHub stats" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmydee&langs_count=8&layout=compact&hide_border=true" alt="Timmydee's GitHub stats" /> 
